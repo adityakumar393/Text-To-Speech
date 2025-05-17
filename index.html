@@ -9,20 +9,17 @@
 <body>
     <div class="hero">
         <h1>Text to Speech <span>Convertor</span></h1>
-        <textarea placeholder="Write here....."></textarea>
+        <div id="textInput" contenteditable="true" class="text-area">Write here...</div>
         <div class="row">
-            <select >
-
-            </select>
-
+            <select></select>
+            <label style="color:white;"><input type="checkbox" id="downloadToggle"> Download Audio</label>
             <button><img src="images/play.png" alt="">Listen Now 🧏‍♂️🧏‍♀️</button>
         </div>
+        <audio id="audioPlayback" controls style="margin-top: 20px;"></audio>
     </div>
-
     <section class="footer">
         <h2>Made by Aditya Kumar :)</h2>
     </section>
-
     <script src="script.js"></script>
 </body>
 </html>
