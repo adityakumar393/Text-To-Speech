@@ -15,3 +15,5 @@ Developed a browser-based Text-to-Speech converter that dynamically transforms u
 ✅ User-Friendly UI: Designed an intuitive and responsive interface with theme-consistent design using CSS3 and semantic HTML5.
 
 ✅ Cross-Browser Compatible: Ensured functional integrity and recording capability across Chrome and Chromium-based environments.
+
+Use updated version of web browser like Brave, MS Edge etc to get full experience.
